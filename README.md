@@ -5,9 +5,7 @@
   automate sales, and scale faster.
 </p>
 
-<p align="center">
-  <img src="assets/img/ltpl_dashboard.png" alt="Best CRM for Companies Dashboard" width="80%">
-</p>
+
 
 <hr/>
 
